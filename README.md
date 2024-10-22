@@ -1,2 +1,2 @@
-# task-management-app
+# Task Management App
 A Task Management App to explore the differences between Angular and React
